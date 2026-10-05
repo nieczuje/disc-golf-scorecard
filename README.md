@@ -13,7 +13,11 @@ A mobile-first scorecard for **Disc Golf Park im. R. Reagana** in Gdańsk — 18
 
 ## Usage
 
-Just open `index.html` in a mobile browser. For a home-screen "app" feel on iOS/Android, use "Add to Home Screen" from the browser menu.
+**Easiest — use it live, no download needed:**
+Open [nieczuje.github.io/disc-golf-scorecard](https://nieczuje.github.io/disc-golf-scorecard/) in your phone's browser. For a home-screen "app" feel, use "Add to Home Screen" from the browser menu.
+
+**Offline / standalone copy:**
+Download `index.html` from this repo and open it directly in a browser — the whole app is self-contained in that one file, so it works without internet access once downloaded.
 
 ## Tech
 
