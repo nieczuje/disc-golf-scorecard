@@ -11,6 +11,12 @@ A mobile-first scorecard for **Disc Golf Park im. R. Reagana** in Gdańsk — 18
 - Embedded course map tab
 - Self-contained single-file app — no build step, no server, no dependencies. Open `index.html` and go.
 
+## Demo
+
+| Setup | Course map | Scoring | Full scorecard | Results |
+|---|---|---|---|---|
+| [<img src="screenshots/players.jpg" width="170">](screenshots/players.jpg) | [<img src="screenshots/mapview.jpg" width="170">](screenshots/mapview.jpg) | [<img src="screenshots/scoring.jpg" width="170">](screenshots/scoring.jpg) | [<img src="screenshots/fullscorecard.jpg" width="170">](screenshots/fullscorecard.jpg) | [<img src="screenshots/results.jpg" width="170">](screenshots/results.jpg) |
+
 ## Usage
 
 **Easiest — use it live, no download needed:**
