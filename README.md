@@ -1,4 +1,9 @@
+<div align="center">
+<img src="logo.png" width="150">
+
 # Reagana DGC Scorecard
+ 
+</div>
 
 ![Vibecoded](https://img.shields.io/badge/provenance-vibecoded-blue)
 
@@ -32,3 +37,4 @@ Vanilla HTML/CSS/JS. All assets (logo, course map) are base64-embedded directly 
 ## Notes
 
 - Course logo and map images are inlined as base64 to keep the app a single portable file.
+- Logo is AI-generated from an original photo I took.
