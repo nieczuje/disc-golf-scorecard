@@ -7,6 +7,8 @@
 
 ![Vibecoded](https://img.shields.io/badge/provenance-vibecoded-blue)
 
+*2026: original git history*
+
 A mobile-first scorecard for **Disc Golf Park im. R. Reagana** in Gdańsk — 18 holes, par 58.
 
 ## Features
