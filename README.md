@@ -22,7 +22,7 @@ A mobile-first scorecard for **Disc Golf Park im. R. Reagana** in Gdańsk — 18
 
 | Setup | Course map | Scoring | Full scorecard | Results |
 |---|---|---|---|---|
-| [<img src="screenshots/players.jpg" width="170">](screenshots/players.jpg) | [<img src="screenshots/mapview.jpg" width="170">](screenshots/mapview.jpg) | [<img src="screenshots/scoring.jpg" width="170">](screenshots/scoring.jpg) | [<img src="screenshots/fullscorecard.jpg" width="170">](screenshots/fullscorecard.jpg) | [<img src="screenshots/results.jpg" width="170">](screenshots/results.jpg) |
+| [<img src="screenshots/mobile/players.jpg" width="170">](screenshots/mobile/players.jpg) | [<img src="screenshots/mobile/map-view.jpg" width="170">](screenshots/mobile/map-view.jpg) | [<img src="screenshots/mobile/scoring.jpg" width="170">](screenshots/mobile/scoring.jpg) | [<img src="screenshots/mobile/full-scorecard.jpg" width="170">](screenshots/mobile/full-scorecard.jpg) | [<img src="screenshots/mobile/results.jpg" width="170">](screenshots/mobile/results.jpg) |
 
 ## Usage
 
