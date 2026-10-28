@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo.png" width="150">
+<img src="readme-images/logo.png" width="150">
 
 # Reagana Disc Golf Scorecard
  
